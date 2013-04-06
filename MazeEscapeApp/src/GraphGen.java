@@ -7,7 +7,7 @@ import HeapPriorityQueue.MyEntry;
 import java.io.*;
 
 import AdjacencyListGraph.*;
-
+//Test comment for Git
 public class GraphGen {
 	private File file;              //The text file to parse
 	private ALGraph graph;          //The output graph
